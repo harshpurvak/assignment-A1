@@ -51,30 +51,30 @@ main{
 
 .left .leftText h6{
    letter-spacing: 5.5px;
-   font-size: 20px;
+   font-size: 16px;
    font-weight: 200;
    margin-bottom: 20px;
    font-weight: 700;
 }
 .left .leftText h1 {
-    font-size: 140px;
+    font-size: 125px;
     font-weight: 700;
 }
 
 .left .leftText p{
     line-height: 1.5;
-    font-size: 21px;
+    font-size: 15px;
 }
 
 .left .leftText h5{
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 700;
 }
 
 .left .leftText h5 span::before {
     content: "\2014  ";
-    margin-right: 15px;
+    margin-right: 10px;
     font-size: 30px; 
 }
 
@@ -91,6 +91,7 @@ main{
 .pokeball-bg img{
     position: absolute;
     bottom: 1.5%;
+    width: 15%;
 }
 
 .pikachu-img{
@@ -99,7 +100,7 @@ main{
     left: 48%;
     top: 16%;
     height: 72%;
-    max-width: 52%;
+    max-width: 55%;
     
 }
 
